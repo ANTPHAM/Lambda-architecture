@@ -1,0 +1,8 @@
+/home/eric/all_data/tweet/src/main/java/tweet/ElasticSearchBolt.java
+/home/eric/all_data/tweet/src/main/java/tweet/App.java
+/home/eric/all_data/tweet/src/main/java/tweet/TweetParsingBolt.java
+/home/eric/all_data/tweet/src/main/java/tweet/InsertingNewDocumentMongo.java
+/home/eric/all_data/tweet/src/main/java/tweet/ElasticSearchClass.java
+/home/eric/all_data/tweet/src/main/java/tweet/CreatingCollectionMongo.java
+/home/eric/all_data/tweet/src/main/java/tweet/HashtagAmountBolt.java
+/home/eric/all_data/tweet/src/main/java/tweet/MongoDBClass.java
